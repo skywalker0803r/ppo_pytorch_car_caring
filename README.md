@@ -14,5 +14,5 @@ To train the agent, run```python train.py --render --vis``` or ```python train.p
 To test, run ```python test.py --render```.
 
 ## Performance
-<div align=center><img src="img/car_racing_ppo.png" width="50%"/></div>
+<div align=center><img src="img/car_racing_demo_ppo.gif"/></div>
 
