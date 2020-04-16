@@ -15,7 +15,7 @@ Every action will be repeated for 8 frames. To get velocity information, state i
 
 Use a two heads FCN to represent the actor and critic respectively. 
 
-The actor outputs α\, β] for each actin as the parameters of Beta distribution. 
+The actor outputs α, β] for each actin as the parameters of Beta distribution. 
 
 <div align=center><img src="img/network.png" width="30%" /></div>
 
